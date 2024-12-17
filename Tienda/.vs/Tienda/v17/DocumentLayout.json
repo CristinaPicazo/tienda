@@ -3,43 +3,56 @@
   "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\productosver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\pedidosporcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\pedidosporcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\masterpageadm.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\masterpageadm.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\productosver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\productosportipover.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosportipover.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\tiposver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\tiposver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\productosver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\pedidosporcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\pedidosporcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\productosver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosver.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\tienda\\tienda\\gestienda\\productosportipover.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosportipover.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\productosportipover.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosportipover.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\controlerror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\controlerror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\estilos\\hojaestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\estilos\\hojaestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQL15/E__DAW___2_DAW_24_25_DWES_DESARROLLO_WEB_EN_ENTORNO_SERVIDOR_PROJECTS_TIENDA_TIENDA_GESTIENDA_APP_DATA_TIENDA.MDF/True/SqlView/dbo.ProductosDet.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\controlerror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\controlerror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\productosportipover.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\productosportipover.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\controlerror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\controlerror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\gestienda\\tiposver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2170830C-3132-4A7B-90BC-E0C7B813C46C}|GesTienda\\GesTienda.csproj|solutionrelative:gestienda\\tiposver.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,24 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "MasterPageAdm.Master",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\MasterPageAdm.Master",
+              "RelativeDocumentMoniker": "GesTienda\\MasterPageAdm.Master",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\MasterPageAdm.Master",
+              "RelativeToolTip": "GesTienda\\MasterPageAdm.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T15:47:22.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\Web.config",
+              "RelativeDocumentMoniker": "GesTienda\\Web.config",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\Web.config",
+              "RelativeToolTip": "GesTienda\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-17T15:47:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosPorCliente.aspx",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\PedidosPorCliente.aspx",
+              "RelativeDocumentMoniker": "GesTienda\\PedidosPorCliente.aspx",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\PedidosPorCliente.aspx",
+              "RelativeToolTip": "GesTienda\\PedidosPorCliente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T11:31:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductosVer.aspx.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ProductosVer.aspx.cs",
               "RelativeDocumentMoniker": "GesTienda\\ProductosVer.aspx.cs",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ProductosVer.aspx.cs",
               "RelativeToolTip": "GesTienda\\ProductosVer.aspx.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwEYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T15:37:19.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductosVer.aspx",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ProductosVer.aspx",
               "RelativeDocumentMoniker": "GesTienda\\ProductosVer.aspx",
@@ -79,16 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.ProductosDet.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQL15/E__DAW___2_DAW_24_25_DWES_DESARROLLO_WEB_EN_ENTORNO_SERVIDOR_PROJECTS_TIENDA_TIENDA_GESTIENDA_APP_DATA_TIENDA.MDF/True/SqlView/dbo.ProductosDet.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQL15/E__DAW___2_DAW_24_25_DWES_DESARROLLO_WEB_EN_ENTORNO_SERVIDOR_PROJECTS_TIENDA_TIENDA_GESTIENDA_APP_DATA_TIENDA.MDF/True/SqlView/dbo.ProductosDet.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-16T11:53:01.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "HojaEstilo.css",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\Estilos\\HojaEstilo.css",
               "RelativeDocumentMoniker": "GesTienda\\Estilos\\HojaEstilo.css",
@@ -96,11 +139,12 @@
               "RelativeToolTip": "GesTienda\\Estilos\\HojaEstilo.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-12T11:33:12.217Z"
+              "WhenOpened": "2024-12-12T11:33:12.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ControlError.aspx.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ControlError.aspx.cs",
               "RelativeDocumentMoniker": "GesTienda\\ControlError.aspx.cs",
@@ -108,19 +152,8 @@
               "RelativeToolTip": "GesTienda\\ControlError.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwCAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:31:47.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControlError.aspx",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ControlError.aspx",
-              "RelativeDocumentMoniker": "GesTienda\\ControlError.aspx",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ControlError.aspx",
-              "RelativeToolTip": "GesTienda\\ControlError.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-16T12:19:32.014Z"
+              "WhenOpened": "2024-12-16T12:31:47.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "TiposVer.aspx",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\TiposVer.aspx",
               "RelativeDocumentMoniker": "GesTienda\\TiposVer.aspx",
@@ -145,24 +178,51 @@
               "RelativeToolTip": "GesTienda\\TiposVer.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-12T10:52:08.402Z"
+              "WhenOpened": "2024-12-12T10:52:08.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "PedidosPorCliente.aspx.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\PedidosPorCliente.aspx.cs",
+              "RelativeDocumentMoniker": "GesTienda\\PedidosPorCliente.aspx.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\PedidosPorCliente.aspx.cs",
+              "RelativeToolTip": "GesTienda\\PedidosPorCliente.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:46:50.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MasterPage.Master",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\MasterPage.Master",
               "RelativeDocumentMoniker": "GesTienda\\MasterPage.Master",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\MasterPage.Master",
               "RelativeToolTip": "GesTienda\\MasterPage.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-12-12T10:52:01.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "ControlError.aspx",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ControlError.aspx",
+              "RelativeDocumentMoniker": "GesTienda\\ControlError.aspx",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ControlError.aspx",
+              "RelativeToolTip": "GesTienda\\ControlError.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T12:19:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductosPorTipoVer.aspx.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Tienda\\Tienda\\GesTienda\\ProductosPorTipoVer.aspx.cs",
               "RelativeDocumentMoniker": "GesTienda\\ProductosPorTipoVer.aspx.cs",
@@ -170,7 +230,8 @@
               "RelativeToolTip": "GesTienda\\ProductosPorTipoVer.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:22:01.675Z"
+              "WhenOpened": "2024-12-16T15:22:01.675Z",
+              "EditorCaption": ""
             }
           ]
         }
