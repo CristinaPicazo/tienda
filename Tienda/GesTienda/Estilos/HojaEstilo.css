@@ -76,3 +76,14 @@
 .verticalMitad {
     vertical-align: middle;
 }
+
+.inicioSesion {
+    place-self: center;
+    align-content: center;
+    height: 200px;
+}
+
+.inicioSesion:last-child {
+    text-align: center;
+}
+
