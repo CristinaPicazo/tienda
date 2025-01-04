@@ -22,7 +22,7 @@ namespace Prueba
         {            
             Session.Clear();
             Session.Abandon();
-            Response.Redirect("~/Default.aspx", false);             
+            Response.Redirect("~/Default.aspx?Message=Sesion_cerrada\"", false);             
         }
 
     }

@@ -67,5 +67,10 @@ namespace GesTienda
                 }
             }
         }
+
+        protected void LinkButton1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/Registrarse.aspx", false);
+        }
     }
 }

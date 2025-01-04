@@ -10,12 +10,23 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <div id="cabecera">
+    <div id="cabecera1">
+        <br />
+        comerciodaw.com &nbsp;
+    </div>
+    <div id="cabecera2">
+        <br />
+        &nbsp;&nbsp;TIENDA ONLINE - SHOPPING DAW<br />
+        <br />
+    </div>
+</div>
         <div class="contenidotitulo">GesTienda</div>
 
         <div class="tablaLogin">
-            <asp:Login ID="Login1" runat="server" OnAuthenticate="Login1_Authenticate">
+            <asp:Login ID="Login1" runat="server" OnAuthenticate="Login1_Authenticate" CssClass="columna">
                 <LayoutTemplate>
-                    <table cellpadding="1" cellspacing="0" style="border-collapse: collapse;">
+                    <table align="center" cellpadding="1" cellspacing="0" style="border-collapse: collapse;">
                         <tr>
                             <td>
                                 <table cellpadding="0">
@@ -46,10 +57,15 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td align="right" colspan="2">
+                                        <td align="center" colspan="2">
                                             <asp:Button ID="LoginButton" runat="server" CommandName="Login" Text="Inicio de sesión" ValidationGroup="Login1" OnClick="LoginButton_Click" />
                                         </td>
                                     </tr>
+                                    <tr>
+                                         <td align="center" colspan="2">
+                                             <asp:LinkButton ID="botonRegistro" runat="server" OnClick="LinkButton1_Click">Registrarse</asp:LinkButton>
+                                              </td>
+                                        </tr>
                                 </table>
                             </td>
                         </tr>
