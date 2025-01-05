@@ -46,7 +46,7 @@
 
 #menu {
     float: left;
-    width: 12%;
+    width: 20%;
     padding: 8px;
     padding-bottom: 5px;
     border-style: groove;
@@ -56,7 +56,7 @@
 
 #contenido {
     float: right;
-    width: 84%;
+    width: 75%;
     padding-bottom: 5px;
 }
 
@@ -67,20 +67,34 @@
     text-align: center;
 }
 
+.contenido {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: center;
+}
+
+
 .contenidotitulo {
     font-size: x-large;
     font-weight: bold;
     text-align: center;
+    margin: 5px;
 }
 
 .contenidoSubTitulo {
     font-size: large;
     font-weight: bold;
     text-align: center;
-}
-
-.inicioSesion:last-child {
-    text-align: center;
+    margin: 5px;
 }
 
 .columna {
@@ -89,33 +103,64 @@
     align-items: center;
 }
 
-.columnas{
+.columnas {
     display: flex;
     flex-direction: column;
     padding: 10px;
+    width: 50%;
+    align-items: center;
 }
 
-.tablaLogin {
-    justify-self: center;
+.registro {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 5px;
 }
 
-#lblMensajes {
+    .registro:first-child {
+        padding: 5px;
+    }
+
+.inicio {
+    text-align: left;
+}
+
+.boton {
+    text-align: center;
+}
+
+.mensajes{
     text-align: center;
 }
 
 
-    @media only screen and (min-width: 600px) {
-        .columna {
-            display: flex;
-            flex-direction: row;
-        }
-
-        .columnas {
-            display: flex;
-            flex-direction: column;
-            padding: 10px;
-        }
+@media only screen and (min-width: 600px) {
+    .columna {
+        display: flex;
+        flex-direction: row;
     }
 
+    .columnas {
+        display: flex;
+        padding: 10px;
+    }
 
+    .registro {
+        flex-direction: row;
+        width: 80%;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
 
+        .registro > span {
+            width: 20%;
+            text-align: end;
+            margin-right: 10px;
+        }
+        .registro > input, select{
+            width: 80%;
+            text-align: end;
+        }
+}

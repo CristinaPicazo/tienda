@@ -4,7 +4,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="InfoContenido" runat="server">
-        <div class="contenidotitulo">Inicio de Usuario</div>
+        <div class="contenidotitulo inicio">Inicio de Usuario</div>
         <p>Esta es la página de inicio de los usuarios. Bienvenido a la Aplicación Web GesTienda.</p>
 
 </asp:Content>

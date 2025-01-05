@@ -11,7 +11,10 @@
         <asp:Label ID="lblResultado" runat="server"></asp:Label>
     </div>
     <br />
+    <div class="mensajes">
     <asp:Label ID="lblMensajes" ForeColor="red" runat="server"></asp:Label>
+
+    </div>
     <br />
     <br />
 </asp:Content>

@@ -32,33 +32,40 @@
             <asp:SqlDataSource runat="server" ID="SqlDataSource2" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT * FROM [UNIDAD]"></asp:SqlDataSource>
             <asp:SqlDataSource runat="server" ID="SqlDataSource3" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT * FROM [TIPO]"></asp:SqlDataSource>
         </div>
-        <div class="columnas">
+        <div class="columnas formulario">
+            <div class="registro">
+
             <asp:Label runat="server" Text="Id. Producto" ID="lblIdProducto"></asp:Label>
             <asp:TextBox runat="server" ID="txtIdProducto" Enabled="False"></asp:TextBox>
-
+            </div>
+            <div class="registro">
             <asp:Label runat="server" Text="Descripción" ID="lblDesPro"></asp:Label>
             <asp:TextBox runat="server" ID="txtDesPro" Enabled="False"></asp:TextBox>
-
+                </div><div class="registro">
             <asp:Label runat="server" Text="Precio" ID="lblPrePro"></asp:Label>
             <asp:TextBox runat="server" ID="txtPrePro" Enabled="False">0</asp:TextBox>
-
+</div><div class="registro">
             <asp:Label runat="server" Text="Unidad" ID="lblIdUnidad"></asp:Label>
             <asp:DropDownList runat="server" ID="ddlIdUnidad" Enabled="False" DataSourceID="SqlDataSource2" DataTextField="IdUnidad" DataValueField="IdUnidad"></asp:DropDownList>
-
+    </div><div class="registro">
             <asp:Label runat="server" Text="Tipo Producto" ID="lblIdTipo"></asp:Label>
             <asp:DropDownList runat="server" ID="ddlIdTipo" Enabled="False" DataSourceID="SqlDataSource3" DataTextField="DesTip" DataValueField="IdTipo"></asp:DropDownList>
-            <asp:Button runat="server" Text="Nuevo" ID="btnNuevo" OnClick="btnNuevo_Click" />
-            <asp:Button runat="server" Text="Editar" ID="btnEditar" Visible="False" OnClick="btnEditar_Click" />
-            <asp:Button runat="server" Text="Eliminar" ID="btnEliminar" Visible="False" OnClick="btnEliminar_Click" />
-            <asp:Button runat="server" Text="Insertar" ID="btnInsertar" Visible="False" OnClick="btnInsertar_Click" />
-            <asp:Button runat="server" Text="Modificar" ID="btnModificar" Visible="False" OnClick="btnModificar_Click" />
+        </div><div>    
+        <asp:Button runat="server" Text="Nuevo" ID="btnNuevo" OnClick="btnNuevo_Click" CssClass="boton"/>
+            <asp:Button runat="server" Text="Editar" ID="btnEditar" Visible="False" OnClick="btnEditar_Click" CssClass="boton"/>
+            <asp:Button runat="server" Text="Eliminar" ID="btnEliminar" Visible="False" OnClick="btnEliminar_Click" CssClass="boton"/>
+            <asp:Button runat="server" Text="Insertar" ID="btnInsertar" Visible="False" OnClick="btnInsertar_Click" CssClass="boton"/>
+            <asp:Button runat="server" Text="Modificar" ID="btnModificar" Visible="False" OnClick="btnModificar_Click" CssClass="boton"/>
             <asp:Button runat="server" Text="Borrar" ID="btnBorrar" Visible="False" />
             <asp:Button runat="server" Text="Cancelar" ID="btnCancelar" Visible="False" OnClick="btnCancelar_Click" />
-        </div>
+        </div></div>
     </div>
     <div>
         <asp:Label ID="lblResultado" runat="server"></asp:Label>
     </div>
     <br />
+    <div class="mensajes">
     <asp:Label ID="lblMensajes" ForeColor="red" runat="server"></asp:Label>
+
+    </div>
 </asp:Content>
